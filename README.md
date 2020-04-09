@@ -8,7 +8,7 @@
 
 5.Go to HOME folder: cd ~
 
-6.Download script: git clone https://github.com/MFDGaming/ubuntu-in-termux.git
+6.Download script: git clone https://github.com/carbonbd/termux-ubuntu
 
 7.Go to script folder: cd ubuntu-in-termux
 
